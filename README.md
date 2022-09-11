@@ -1,4 +1,4 @@
-# face_detection
+# Face Detection
 Detect faces on your webcam using CV2.
 
 # Install libraries
